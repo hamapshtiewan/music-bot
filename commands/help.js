@@ -32,7 +32,7 @@ module.exports = {
 
 
      
-**[ invite ](https://discord.com/api/oauth2/authorize?client_id=780578520870158337&permissions=8&scope=bot)** , **[ support ](https://discord.gg/3wykSpqjZq)**      
+**[ invite ](https://discord.com/api/oauth2/authorize?client_id=853696230575570955&permissions=0&scope=bot)** , **[ support ](https://discord.gg/3wykSpqjZq)**      
 
 **[ vote ](https://top.gg/bot/780578520870158337)**                                                                
  `)
